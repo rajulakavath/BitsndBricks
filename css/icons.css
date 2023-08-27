@@ -1556,7 +1556,8 @@
   content: "\e987";
 }
 .icon-feather-log-in:before {
-  content: "\e988";
+  content: "\e9ba";
+  font-family: 'Material Icons'
 }
 .icon-feather-log-out:before {
   content: "\e989";
